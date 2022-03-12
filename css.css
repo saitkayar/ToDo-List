@@ -1,0 +1,15 @@
+#add:hover{
+    background-color: green !important;
+}
+#list >li:hover{
+    background-color: gray !important;
+}
+
+#close:hover{
+    color:red !important;
+    cursor: pointer;
+   padding: 0 10px;
+    background-color:green;
+    transform: scale(1.5);
+    transition: 1s;
+}
